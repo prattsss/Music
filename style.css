@@ -8,8 +8,8 @@ h1{
   font-family: 'Phudu', cursive;
 }
 h1 span{
-color : "red"
-}
+  color : red;
+  }
 body{
   padding: 5vh 10vh;
   background-color: #333333;
