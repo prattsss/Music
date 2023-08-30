@@ -1,0 +1,22 @@
+#root Button{
+  width: 100px;
+padding: 10px 10px;
+}
+h1{
+  font-size: 1.7vw;
+  color: black;
+  font-family: 'Phudu', cursive;
+}
+body{
+  padding: 5vh 10vh;
+  background-color: #333333;
+}
+#root{
+  width: 80vw;
+  height: 60vh;
+  background-color: seashell;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: auto;
+}
