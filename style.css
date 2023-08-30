@@ -20,6 +20,5 @@ body{
   background-color: seashell;
   display: flex;
   align-items: center;
-  justify-content: center;
-  margin: auto;
+  justify-content: center
 }
